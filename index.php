@@ -7,7 +7,7 @@
     </head>
     <body>
         
-        CADASTRO DE ALUNOS:
+        CADASTRO Dos ALUNOS:
         
         <form action="cadastrar.php" method="post">
             <h4> NOME </h4>
